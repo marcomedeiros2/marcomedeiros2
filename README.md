@@ -1,4 +1,4 @@
-## Olá me chamo Marco Antonio Medeiros, sou PROGRAMADOR e DESENVOLVEDOR WEB e estudo PYTHON!
+## Olá, me chamo Marco Antonio Medeiros, sou PROGRAMADOR e DESENVOLVEDOR WEB e estudo PYTHON!
 
 - 💻 Desenvolvedor Web
 - 🐍 Python
