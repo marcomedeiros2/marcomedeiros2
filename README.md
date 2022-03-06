@@ -1,4 +1,4 @@
-## <p style=font-size="40px">Olá me chamo Marco Antonio Medeiros, sou programador e desenvolvedor web e estudo python!<p>
+## Olá me chamo Marco Antonio Medeiros, sou PROGRAMADOR e DESENVOLVEDOR WEB e estudo PYTHON!
 
 - 💻 Desenvolvedor Web
 - 🐍 Python
