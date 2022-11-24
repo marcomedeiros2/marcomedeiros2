@@ -1,4 +1,4 @@
-## Olá, me chamo Marco Antonio Medeiros, sou DESENVOLVEDOR WEB, estudo PYTHON, Mobile e Idiomas!
+## Olá, me chamo Marco Antonio Medeiros, sou DESENVOLVEDOR WEB, Mobile e Poliglota!
 
 - 💻 Desenvolvedor Web
 - 🐍 Python
