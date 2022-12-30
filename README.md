@@ -2,8 +2,7 @@
 
 - 💻 Desenvolvedor Web
 - 🐍 Python
-- ✴️ INGLÊS Fluent
-- ✴️ ESPAÑOL Basic
+- ✴️ INGLÊS Básico
 
 <div align="center">
   <a href="https://github.com/marcomedeiros2">
