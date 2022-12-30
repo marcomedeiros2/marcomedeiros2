@@ -3,6 +3,7 @@
 - 💻 Desenvolvedor Web
 - 💻 Desenvolvedor Mobile
 - 🐍 Python
+- Programador PHP
 - ✴️ INGLÊS Básico
 
 <div align="center">
