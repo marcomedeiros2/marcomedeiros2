@@ -19,6 +19,7 @@
   <img align="center" alt="marcomedeiros2-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="marcomedeiros2-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Marco-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/100528745?v=4">
+  <i class="fa-brands fa-php"></i>
 </div>
   
   ##
