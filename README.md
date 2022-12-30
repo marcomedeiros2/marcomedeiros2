@@ -1,6 +1,7 @@
 ## Olá, me nome é Marco Antonio Medeiros, sou DESENVOLVEDOR WEB e MOBILE!
 
 - 💻 Desenvolvedor Web
+- 💻 Desenvolvedor Mobile
 - 🐍 Python
 - ✴️ INGLÊS Básico
 
